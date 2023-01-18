@@ -2,7 +2,8 @@
 
 ```console
 
-# botFactory é um aplicativo web para criação, e manipulação de bots para o twitter
+botFactory é um aplicativo web para criação e manipulação de bots para o twitter
+feito utilizando Python e Flask
 
 ```
 
